@@ -1,0 +1,4 @@
+- See my web page: https://au.dk/en/magnus@mgmt.au.dk
+- See other GitHub organizations:
+    - [TEXT - Center for Contemporary Cultures of Text](https://github.com/TEXT-AU), Aarhus University
+    - [Institute for Humanities-Centered Artificial Intelligence](https://github.com/CHAI-UHH/), University of Hamburg
