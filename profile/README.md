@@ -2,3 +2,5 @@
 - See other GitHub organizations:
     - [TEXT - Center for Contemporary Cultures of Text](https://github.com/TEXT-AU), Aarhus University
     - [Institute for Humanities-Centered Artificial Intelligence](https://github.com/CHAI-UHH/), University of Hamburg
+- Organizations for side projects:
+    - [KIMB-technologies](https://github.com/KIMB-technologies)
